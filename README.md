@@ -7,7 +7,7 @@ Blog post is at the following link:
 https://medium.com/@taijiensing/understanding-airbnb-listings-in-seattle-9ff04b98c844
 
 # File Descriptions
-### AirBnB_Seattle-Submission.ipynb
+### AirBnB_Seattle-Submission_v2.ipynb
 This notebook documents the workings in arriving at key learnings of the project.
 
 ### helper_functions.py
