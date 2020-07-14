@@ -7,15 +7,20 @@ Blog post is at the following link:
 https://medium.com/@taijiensing/understanding-airbnb-listings-in-seattle-9ff04b98c844
 
 # File Descriptions
-## AirBnB_Seattle-Submission.ipynb
+### AirBnB_Seattle-Submission.ipynb
 This notebook documents the workings in arriving at key learnings of the project.
 
-## helper_functions.py
+### helper_functions.py
 This python file contains the functions used in the aforementioned notebook.
+
+### Jupyter Notebook in html + pdf format
+There seems to be issue with loading the notebook in github, so I have included the html and pdf versions of the notebook.
+AirBnB_Seattle-Submission.html
+AirBnB_Seattle-Submission.pdf
 
 # Data Source
 Data sources exceeds the github file size quota but they are obtained from kaggle as below.
 
-Seattle Airbnb Open Data
+### Seattle Airbnb Open Data
 https://www.kaggle.com/airbnb/seattle
 
