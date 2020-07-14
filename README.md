@@ -15,7 +15,9 @@ This python file contains the functions used in the aforementioned notebook.
 
 ### Jupyter Notebook in html + pdf format
 There seems to be issue with loading the notebook in github, so I have included the html and pdf versions of the notebook.
+
 AirBnB_Seattle-Submission.html
+
 AirBnB_Seattle-Submission.pdf
 
 # Data Source
