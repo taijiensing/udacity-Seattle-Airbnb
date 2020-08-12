@@ -31,7 +31,7 @@ sklearn.model_selection (train_test_split, GridSearchCV modules)
 sklearn.metrics (make_scorer,fbeta_score, accuracy_score modules)
 
 ## 4) Files in the Repository (show the folder structure and describe each file)
-#### AirBnB_Seattle-Submission_v2.ipynb
+#### AirBnB_Seattle-Submission_v3.ipynb
 This notebook documents the workings in arriving at key learnings of the project.
 
 #### helper_functions.py
