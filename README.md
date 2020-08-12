@@ -40,8 +40,9 @@ This python file contains the functions used in the aforementioned notebook.
 #### Jupyter Notebook in html + pdf format
 There seems to be issue with loading the notebook in github, so I have included the html and pdf versions of the notebook:
 
-AirBnB_Seattle-Submission.html
-AirBnB_Seattle-Submission.pdf
+AirBnB_Seattle-Submission_v3.html
+
+AirBnB_Seattle-Submission_v3.pdf
 
 ## 5) Summary of the result
 We have demonstrated that simple and straightforward data-driven investigation of the Seattle Airbnb market has provided us with insights may be helpful to anything keen to be involved in the property rental business.
