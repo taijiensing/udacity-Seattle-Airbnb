@@ -6,11 +6,11 @@ This project is part of the Udacity's Data Science Nanodegree program where I ha
 ## 2) Motivation of the project
 Using Seattle's AirBnB data, and with the CRISP-DM standard as a guide (Cross Industry Process for Data Mining), we hope to gain more understanding on the Seattle rental market, specifically, 3 questions regarding:
 
-What property features determine the listing price?
+#### What property features determine the listing price?
 
-What property features determine the its popularity? (with reviews per month as proxy)
+#### What property features determine the its popularity? (with reviews per month as proxy)
 
-When is the most popular month to rent in Seattle?
+#### When is the most popular month to rent in Seattle?
 
 Our approaches and findings will be documented in the python scripts, notebooks and in a written Medium blog post.
 
@@ -31,18 +31,16 @@ sklearn.model_selection (train_test_split, GridSearchCV modules)
 sklearn.metrics (make_scorer,fbeta_score, accuracy_score modules)
 
 ## 4) Files in the Repository (show the folder structure and describe each file)
-AirBnB_Seattle-Submission_v2.ipynb
+#### AirBnB_Seattle-Submission_v2.ipynb
 This notebook documents the workings in arriving at key learnings of the project.
 
-helper_functions.py
+#### helper_functions.py
 This python file contains the functions used in the aforementioned notebook.
 
-Jupyter Notebook in html + pdf format
-
+#### Jupyter Notebook in html + pdf format
 There seems to be issue with loading the notebook in github, so I have included the html and pdf versions of the notebook:
 
 AirBnB_Seattle-Submission.html
-
 AirBnB_Seattle-Submission.pdf
 
 ## 5) Summary of the result
