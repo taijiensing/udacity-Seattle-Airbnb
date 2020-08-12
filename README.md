@@ -7,7 +7,9 @@ This project is part of the Udacity's Data Science Nanodegree program where I ha
 Using Seattle's AirBnB data, and with the CRISP-DM standard as a guide (Cross Industry Process for Data Mining), we hope to gain more understanding on the Seattle rental market, specifically, 3 questions regarding:
 
 What property features determine the listing price?
+
 What property features determine the its popularity? (with reviews per month as proxy)
+
 When is the most popular month to rent in Seattle?
 
 Our approaches and findings will be documented in the python scripts, notebooks and in a written Medium blog post.
@@ -36,8 +38,11 @@ helper_functions.py
 This python file contains the functions used in the aforementioned notebook.
 
 Jupyter Notebook in html + pdf format
+
 There seems to be issue with loading the notebook in github, so I have included the html and pdf versions of the notebook:
+
 AirBnB_Seattle-Submission.html
+
 AirBnB_Seattle-Submission.pdf
 
 ## 5) Summary of the result
@@ -50,10 +55,12 @@ This suggests our questions are distinct to one another, else, answering the fun
 Further to this, we also show that the most popular month to rent in Seattle could be driven by some variable that is not part of our dataset. 
 
 All the findings of the project can be found at the post available here.
+
 https://medium.com/@taijiensing/understanding-airbnb-listings-in-seattle-9ff04b98c844
 
 ## 6) Acknowledgement | Attribution
 Data sources exceeds the github file size quota but they are obtained from kaggle as below. Other references are cited within the notebook.
 
 Seattle Airbnb Open Data:
+
 https://www.kaggle.com/airbnb/seattle
